@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-12-21 09:40+0100\n"
+"PO-Revision-Date: 2020-12-21 09:40+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __(;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/pc4woo-addressvalidation-integration.php:16
+msgid "Postcode Checkout - Address validation"
+msgstr "Postcode Checkout - Adres Validatie"
+
+#: includes/pc4woo-addressvalidation-integration.php:17
+msgid ""
+"Adds Postcode Checkout's integration of different address validation/"
+"autocomplete providers to WooCommerce for NL."
+msgstr ""
+"Hiermee voegt Postcode Checkout de integratie van verschillende "
+"adresvalidatie/autocomplete providers toe aan WooCommerce voor NL."
+
+#: includes/pc4woo-addressvalidation-integration.php:55
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: includes/pc4woo-addressvalidation-integration.php:57
+msgid "Enable address lookup on the checkout and account pages"
+msgstr "Adreszoeking inschakelen op de checkout- en accountpagina's"
+
+#: includes/pc4woo-addressvalidation-integration.php:61
+#: includes/pc4woo-addressvalidation-integration.php:80
+#: includes/pc4woo-addressvalidation-integration.php:91
+#: includes/pc4woo-addressvalidation-integration.php:102
+msgid "No"
+msgstr "Nee"
+
+#: includes/pc4woo-addressvalidation-integration.php:62
+#: includes/pc4woo-addressvalidation-integration.php:81
+#: includes/pc4woo-addressvalidation-integration.php:92
+#: includes/pc4woo-addressvalidation-integration.php:103
+msgid "Yes"
+msgstr "Ja"
+
+#: includes/pc4woo-addressvalidation-integration.php:66
+msgid "License Key"
+msgstr "Licentiecode"
+
+#: includes/pc4woo-addressvalidation-integration.php:68
+msgid ""
+"Enter the Postcode Checkout License Key you received by email when you "
+"signed up for an account."
+msgstr ""
+"Voer de licentiesleutel in voor Postcode Checkout die u per e-mail hebt "
+"ontvangen toen u zich aanmeldde voor een account."
+
+#: includes/pc4woo-addressvalidation-integration.php:74
+msgid "Hide Address Fields"
+msgstr "Adresvelden verbergen"
+
+#: includes/pc4woo-addressvalidation-integration.php:76
+msgid "Hide the address fields until a search result is selected"
+msgstr "De adresvelden verbergen totdat een zoekresultaat is geselecteerd"
+
+#: includes/pc4woo-addressvalidation-integration.php:85
+msgid "Empty the default address fields?"
+msgstr "Standaard velden leeg maken?"
+
+#: includes/pc4woo-addressvalidation-integration.php:87
+msgid ""
+"The standard address fields can be emptied to revalidate the response from "
+"Postcode NL"
+msgstr ""
+"De standaard adres velden kunnen leeg gemaakt worden om het antwoord van "
+"PostcodeNL te revalideeren"
+
+#: includes/pc4woo-addressvalidation-integration.php:96
+msgid "Housenumber and addition on Line 2"
+msgstr "Huisnummer en toevoeging in Lijn 2"
+
+#: includes/pc4woo-addressvalidation-integration.php:98
+msgid "Use address line 2 for housenumber and addition"
+msgstr "Gebruik adres lijn 2 voor huisnummen en toevoeging"
+
+#: includes/pc4woo-addressvalidation-integration.php:107
+msgid "Checkbox text"
+msgstr "Checkbox tekst"
+
+#: includes/pc4woo-addressvalidation-integration.php:109
+msgid ""
+"When the form fields are hidden or disabled, this text is displayed on the "
+"checkbox that reveals/enables the fields"
+msgstr ""
+"Wanneer de formulier velden zijn verborgen of gedeactiveerd, deze text wordt "
+"laten zien bij het aan en uit zetten van de velden"
+
+#: includes/pc4woo-addressvalidation-integration.php:127
+msgid "Postcode"
+msgstr "Postcode"
+
+#: includes/pc4woo-addressvalidation-integration.php:128
+msgid "Number"
+msgstr "Nummer"
+
+#: includes/pc4woo-addressvalidation-integration.php:129
+msgid "Ext"
+msgstr "Toevoeging"
+
+#: includes/pc4woo-addressvalidation-integration.php:130
+msgid "Enter Address Manually"
+msgstr "Adres handmatig invoeren"

@@ -1,0 +1,63 @@
+
+
+/* Readonly styling */
+
+form.checkout input:read-only
+{
+	background-color: #CCCCCC;
+}
+
+
+
+#pc4woo_billing_wrapper #pc4woo_billing_result,
+#pc4woo_shipping_wrapper #pc4woo_shipping_result
+{
+    text-align: left;
+    height: 45px;
+	
+    font-weight: bold;
+    margin-bottom: 20px;
+	
+    color: #333333;
+    font-size: 12px;
+	
+    float: left;
+    clear: both;
+    width: 100%;
+}
+
+#pc4woo_billing_wrapper #pc4woo_billing_postcode_wrapper.form-row-first,
+#pc4woo_shipping_wrapper #pc4woo_billing_postcode_wrapper.form-row-first
+{
+	padding-right: 4%;
+}
+
+
+#pc4woo_billing_wrapper #pc4woo_billing_housenumber_wrapper.form-row-quart-first,
+#pc4woo_shipping_wrapper #pc4woo_shipping_housenumber_wrapper.form-row-quart-first
+{
+	float: left;
+	width: 22%;
+	overflow: visible;
+	margin-right: 4% !important;
+}
+
+
+#pc4woo_billing_wrapper #pc4woo_billing_housenumber_addition_wrapper.form-row-quart,
+#pc4woo_shipping_wrapper #pc4woo_shipping_housenumber_addition_wrapper.form-row-quart
+{
+	float: left;
+	width: 22%;
+	overflow: visible;
+}
+
+/* Backend - Profile */
+.postcode-validation #pc4woo-billing-housenumber
+{
+	width: 75px;
+}
+
+.form-table .postcode-validation td
+{
+	padding: 5px 10px 5px 0px;
+}
